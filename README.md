@@ -1,5 +1,5 @@
 <h1 align="center">
-  <sub><picture><source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png"><img src="assets/logo-light.png" height="34" alt=""></picture></sub> AlphaBet: Reinforcement Learning for<br>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png"><img src="assets/logo-light.png" height="27" alt=""></picture>&nbsp;AlphaBet: Reinforcement Learning for<br>
   LLM Event Forecasting Agents
 </h1>
 
